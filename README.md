@@ -1,5 +1,7 @@
 # Feedonomics Link Cartridge
 
+## Ignore This
+
 Feedonomics helps you clean your product data and intelligently optimize it for hundreds of different marketing channels. Our dedicated full-service FeedFillment™ team is always there to help with feed set-up, optimization, and 24/7 support to help maximize product performance.
 
 This is a repository Feedonomics for SFCC integration.
