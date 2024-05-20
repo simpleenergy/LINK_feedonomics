@@ -1,5 +1,7 @@
 # Feedonomics Link Cartridge
 
+Test
+
 Feedonomics helps you clean your product data and intelligently optimize it for hundreds of different marketing channels. Our dedicated full-service FeedFillment™ team is always there to help with feed set-up, optimization, and 24/7 support to help maximize product performance.
 
 This is a repository Feedonomics for SFCC integration.
@@ -7,6 +9,7 @@ This is a repository Feedonomics for SFCC integration.
 The Feedonomics has a link cartridge (`int_feedonomics`) in the cartridges folder inside the link_feedonomics folder provided by Feedonomics.
 
 # What's New
+
 The latest version of Feedonomics Link Cartridge supports all three frameworks of SFCC viz. pipelines, controllers and SFRA.This cartridge primarily focuses on
 Product and Inventory Feed export to Feedonomics.It has not any storefront functionality.
 
@@ -21,7 +24,7 @@ Product and Inventory Feed export to Feedonomics.It has not any storefront funct
 4 Add 'int_feedonomics` to the Business Manager site path after uploading.
 
 5 Import jobs and services present in metadata folder by zipping the metadata folder.Import the zipped folder in
-  site import export section.
+site import export section.
 
 6 You should now be ready to configure the JOBs and export them.
 
